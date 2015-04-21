@@ -1,4 +1,8 @@
 ====== Dokuwiki ZIPODT plugin ======
 
-This plugin lets you download a zip of all files in subdirectories within the current namespace
+This plugin does the following to all the files within sub namespace within the current namespace:
+1. convert file to odt format
+2. zip and download the files
+
+This plugin requires Dokuwiki odt plugin
 
