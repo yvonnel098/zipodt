@@ -1,0 +1,7 @@
+base    zipodt
+author 	Yvonne Lu
+email  	yvonne@leapinglaptop.com
+date   	2/3/15
+name   	Zip Namespace Plugin
+desc   	Zip all files under the current namespace
+url    	http://www.leapinglaptop.com
